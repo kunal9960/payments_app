@@ -37,17 +37,19 @@ This project is a simple and secure **Database PHP-based payments app** integrat
 ## Setup
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/kunal9960/payments_app.git
    cd payments_app
    ```
    
-2. **Install dependencies:**
+3. **Install dependencies:**
+
     ```bash
     composer install
     ```
 
-3. **Set up your database:**
+5. **Set up your database:**
 
 - Create a MySQL database.
 - Import the transactions.sql file to set up the required tables.
