@@ -43,13 +43,13 @@ This project is a simple and secure **Database PHP-based payments app** integrat
    cd payments_app
    ```
    
-3. **Install dependencies:**
+2. **Install dependencies:**
 
     ```bash
     composer install
     ```
 
-5. **Set up your database:**
+3. **Set up your database:**
 
 - Create a MySQL database.
 - Import the transactions.sql file to set up the required tables.
